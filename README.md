@@ -4,7 +4,7 @@
 
 Gra przedstawia klasyczną mechanikę niszczenia asteroid z kilkoma dodatkowymi funkcjami.
 
-## Funkcjonalności
+## Zmiany w grze
 
 - Dodane zostały trzy rodzaje broni:
   - lasery
@@ -17,11 +17,9 @@ Gra przedstawia klasyczną mechanikę niszczenia asteroid z kilkoma dodatkowymi 
 
 - Po osiągnięciu wielokrotności 100 punktów, asteroidy przyspieszają. Proces ten powtarza się do osiągnięcia 500 punktów.
 
-- Po zdobyciu 500 punktów gra się zatrzymuje i wyświetlany jest końcowy komunikat:  
-  **"gratulacje wygrales piwo"**
+- Po zdobyciu 500 punktów wyświetlany jest końcowy komunikat
 
-- Jeśli gracz straci wszystkie punkty życia (HP), pojawia się ekran przegranej z napisem:  
-  **"zaslugujesz na 2 z obiektowki"**
+- Jeśli gracz straci wszystkie punkty życia (HP), pojawia się ekran przegranej z napisem
 
 - W tle znajduje się obraz galaktyki.
 
